@@ -10,7 +10,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
                 contact = @Contact(
                         name = "Kazi Mahmud Morshed",
                         email = "dbh@dbh.com"
-                        //url = "https://github.com/dbh"
+                        //url = "https://github.com/Mahmud206"
                 ),
                 description = "OpenApi documentation for DBH",
                 title = "OpenApi specification - dbh",
@@ -19,7 +19,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
         servers = {
                 @Server(
                         description = "Local environment",
-                        url = "http://localhost:8080"
+                        url = "http://localhost:8083"
                 )
         }
 )
